@@ -52,6 +52,7 @@ public class Main {
         for (Estudiante est : dao.mostrar()){
             System.out.println(est);
         }
+        
     }
 }
 
